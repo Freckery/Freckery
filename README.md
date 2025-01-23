@@ -6,5 +6,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 
 ![Freckery GitHub stats](https://github-readme-stats.vercel.app/api?username=Freckery&show_icons=true&theme=radical)
