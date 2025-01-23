@@ -10,4 +10,4 @@
 ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Freckery)](https://git.io/streak-stats)
+[![GitHub Freckery](https://streak-stats.demolab.com/?user=Freckery)
