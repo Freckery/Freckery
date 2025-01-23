@@ -10,4 +10,4 @@
 ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-[![GitHub Freckery](https://streak-stats.demolab.com/?user=Freckery)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freckery)](https://github.com/anuraghazra/github-readme-stats)
