@@ -10,5 +10,5 @@
 ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Freckery&theme=dark)
+![Freckery Status](https://github-readme-stats.vercel.app/api?username=Freckery&cache_seconds=60)
 
